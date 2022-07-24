@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kawinraju" target="blank"><img src="https://img.shields.io/twitter/follow/kawinraju?logo=twitter&style=for-the-badge" alt="kawinraju" /></a> </p>
 
-- 📫 How to reach me **kawinraju@gmail.com**
+- 📫 How to reach me **kawin@kawin.tech**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
